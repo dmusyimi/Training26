@@ -1,5 +1,5 @@
 //DENNIS MUSYIMI//
-package io.musyimidennis;
+package Assessments1_DennisMusyimi;
 import java.util.Scanner;
 public class Assessment1_DennisMusyimi {
     public static void main(String[] args) {

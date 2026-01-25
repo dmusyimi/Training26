@@ -1,4 +1,4 @@
-package io.musyimidennis.Assignments;
+package Random_Assignments;
 
 import java.util.Scanner;
 

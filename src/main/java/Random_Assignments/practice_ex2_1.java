@@ -1,4 +1,4 @@
-package io.musyimidennis.Assignments;
+package Random_Assignments;
 
 public class practice_ex2_1 {
     public static void main(String[] args) {

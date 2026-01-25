@@ -1,4 +1,4 @@
-package io.musyimidennis;
+package Random_Assignments;
 import java.util.Scanner;
 
 enum LightState {

@@ -1,5 +1,4 @@
-package io.musyimidennis;
-import org.w3c.dom.ls.LSOutput;
+package Random_Assignments;
 
 import java.util.Scanner;
 
