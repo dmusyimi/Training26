@@ -101,8 +101,8 @@ public class Assessment1_DennisMusyimi {
                 System.out.print("*");
             }
             System.out.println();
-            scanner.close();
         }
+        scanner.close();
     }
 }
 
